@@ -1,0 +1,2 @@
+# A-Comparative-Study-of-Naive-Bayes-and-Logistic-Regression-for-Fake-News-Detection
+Developed a scalable fake news classification system using TF-IDF features and supervised learning models. Implemented Multinomial Naive Bayes and GPU-accelerated Logistic Regression (PyTorch-CUDA) with a complete preprocessing pipeline, achieving efficient training, accurate prediction, and real-time text classification.
